@@ -1,1 +1,1 @@
-Aplicação inicilizada atraves de yarn start
+Aplicação inicializada atraves de yarn start
